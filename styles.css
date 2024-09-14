@@ -1,6 +1,6 @@
 .section1 {
     background-color: #1F2937;
-    padding: 10px 150px;
+    padding: 5px 150px;
 }
 
 .headerlist {
@@ -46,4 +46,7 @@ button {
 
 .content {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
 }
