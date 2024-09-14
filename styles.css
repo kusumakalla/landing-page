@@ -1,0 +1,49 @@
+.section1 {
+    background-color: #1F2937;
+    padding: 10px 150px;
+}
+
+.headerlist {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.heromain {
+    color: #faf9f8;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+}
+
+.headerlist a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+button {
+    background-color: #3882f6;
+    border-radius: 5px;
+    width: auto;
+    padding: 5px 15px;
+    color: #e5e7eb;
+    font-size: 15px;
+    margin: 8px;
+}
+
+.content {
+    display: flex;
+}
