@@ -50,3 +50,13 @@ button {
     align-items: center;
     padding: 50px;
 }
+
+/* Section 2 */
+
+.sec2_header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    width: 900px;
+    margin: 20px auto;
+}
