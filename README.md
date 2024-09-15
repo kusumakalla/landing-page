@@ -15,3 +15,5 @@ Section 2 contais a small header to the section and a list of services provided.
 I have used flexbox to list the serives in horizontal row.
 
 Section 3 containes a quote text and author. 
+
+Section 4 contains some text and a sign up button which are aligned side by side with flexbox
