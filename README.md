@@ -13,3 +13,5 @@ Used flexbox in the contents section as well
 
 Section 2 contais a small header to the section and a list of services provided.
 I have used flexbox to list the serives in horizontal row.
+
+Section 3 containes a quote text and author. 
