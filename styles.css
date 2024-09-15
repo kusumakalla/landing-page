@@ -100,3 +100,24 @@ button {
     margin: 0;
     text-align: center;
 }
+
+/* section 3 */
+
+.section3 {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    padding: 100px 300px;
+}
+
+.quote {
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+    font-size: 36px;
+}
+
+.auth {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+}
